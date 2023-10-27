@@ -1,11 +1,7 @@
 ## My Project
 
-TODO: Fill this README out!
+This code can be used to replicate the experiments of our work presented in Privacy adhering machine un-learning in NLP (https://www.amazon.science/publications/privacy-adhering-machine-un-learning-in-nlp) 
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
