@@ -1,0 +1,7 @@
+{
+    "nb_train": 1992,
+    "nb_test": 498,
+    "input_shape": [768],
+    "nb_classes": 2,
+    "dataloader": "dataloader"
+}
